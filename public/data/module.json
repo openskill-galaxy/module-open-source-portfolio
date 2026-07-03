@@ -1,0 +1,41 @@
+{
+  "id": "mod-open-source-portfolio",
+  "slug": "module-open-source-portfolio",
+  "title": "开源项目与作品集实战",
+  "subtitle": "面向求职和开源贡献者",
+  "description": "面向求职开源协作和个人品牌建设的GitHub Profile项目选题README Issue PR License Release Pages作品集网站与项目展示训练。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "开源",
+    "GitHub",
+    "作品集",
+    "README",
+    "Pull Request",
+    "个人主页",
+    "GitHub Pages",
+    "项目展示"
+  ],
+  "estimatedHours": 140,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "coverEmoji": "📚",
+  "repoUrl": "https://github.com/openskill-galaxy/module-open-source-portfolio",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 182,
+    "knowledgePoints": 735,
+    "questions": 3500,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 117
+  }
+}
