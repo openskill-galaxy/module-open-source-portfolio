@@ -36,7 +36,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门基础",
+    "description": "OSS入门基础",
+    "slug": "oss入门基础"
   },
   {
     "id": "os-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile基础",
+    "description": "GitHubProfile基础",
+    "slug": "githubprofile基础"
   },
   {
     "id": "os-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection基础",
+    "description": "ProjectSelection基础",
+    "slug": "projectselection基础"
   },
   {
     "id": "os-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作基础",
+    "description": "README写作基础",
+    "slug": "readme写作基础"
   },
   {
     "id": "os-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR基础",
+    "description": "IssuePR基础",
+    "slug": "issuepr基础"
   },
   {
     "id": "os-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure基础",
+    "description": "ProjectStructure基础",
+    "slug": "projectstructure基础"
   },
   {
     "id": "os-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License基础",
+    "description": "License基础",
+    "slug": "license基础"
   },
   {
     "id": "os-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease基础",
+    "description": "RoadmapRelease基础",
+    "slug": "roadmaprelease基础"
   },
   {
     "id": "os-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions基础",
+    "description": "GHActions基础",
+    "slug": "ghactions基础"
   },
   {
     "id": "os-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite基础",
+    "description": "PagesSite基础",
+    "slug": "pagessite基础"
   },
   {
     "id": "os-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo基础",
+    "description": "DemoVideo基础",
+    "slug": "demovideo基础"
   },
   {
     "id": "os-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution基础",
+    "description": "Contribution基础",
+    "slug": "contribution基础"
   },
   {
     "id": "os-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview基础",
+    "description": "PortfolioInterview基础",
+    "slug": "portfoliointerview基础"
   },
   {
     "id": "os-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject基础",
+    "description": "OSSProject基础",
+    "slug": "ossproject基础"
   },
   {
     "id": "os-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门基础",
+    "description": "OSS入门基础",
+    "slug": "oss入门基础"
   },
   {
     "id": "os-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile基础",
+    "description": "GitHubProfile基础",
+    "slug": "githubprofile基础"
   },
   {
     "id": "os-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection基础",
+    "description": "ProjectSelection基础",
+    "slug": "projectselection基础"
   },
   {
     "id": "os-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作基础",
+    "description": "README写作基础",
+    "slug": "readme写作基础"
   },
   {
     "id": "os-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR基础",
+    "description": "IssuePR基础",
+    "slug": "issuepr基础"
   },
   {
     "id": "os-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure基础",
+    "description": "ProjectStructure基础",
+    "slug": "projectstructure基础"
   },
   {
     "id": "os-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License基础",
+    "description": "License基础",
+    "slug": "license基础"
   },
   {
     "id": "os-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease基础",
+    "description": "RoadmapRelease基础",
+    "slug": "roadmaprelease基础"
   },
   {
     "id": "os-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions基础",
+    "description": "GHActions基础",
+    "slug": "ghactions基础"
   },
   {
     "id": "os-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite基础",
+    "description": "PagesSite基础",
+    "slug": "pagessite基础"
   },
   {
     "id": "os-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo基础",
+    "description": "DemoVideo基础",
+    "slug": "demovideo基础"
   },
   {
     "id": "os-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution基础",
+    "description": "Contribution基础",
+    "slug": "contribution基础"
   },
   {
     "id": "os-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview基础",
+    "description": "PortfolioInterview基础",
+    "slug": "portfoliointerview基础"
   },
   {
     "id": "os-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject基础",
+    "description": "OSSProject基础",
+    "slug": "ossproject基础"
   },
   {
     "id": "os-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门基础",
+    "description": "OSS入门基础",
+    "slug": "oss入门基础"
   },
   {
     "id": "os-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile基础",
+    "description": "GitHubProfile基础",
+    "slug": "githubprofile基础"
   },
   {
     "id": "os-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection基础",
+    "description": "ProjectSelection基础",
+    "slug": "projectselection基础"
   },
   {
     "id": "os-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作基础",
+    "description": "README写作基础",
+    "slug": "readme写作基础"
   },
   {
     "id": "os-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR基础",
+    "description": "IssuePR基础",
+    "slug": "issuepr基础"
   },
   {
     "id": "os-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure基础",
+    "description": "ProjectStructure基础",
+    "slug": "projectstructure基础"
   },
   {
     "id": "os-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License基础",
+    "description": "License基础",
+    "slug": "license基础"
   },
   {
     "id": "os-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease进阶",
+    "description": "RoadmapRelease进阶",
+    "slug": "roadmaprelease进阶"
   },
   {
     "id": "os-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions进阶",
+    "description": "GHActions进阶",
+    "slug": "ghactions进阶"
   },
   {
     "id": "os-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite进阶",
+    "description": "PagesSite进阶",
+    "slug": "pagessite进阶"
   },
   {
     "id": "os-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo进阶",
+    "description": "DemoVideo进阶",
+    "slug": "demovideo进阶"
   },
   {
     "id": "os-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution进阶",
+    "description": "Contribution进阶",
+    "slug": "contribution进阶"
   },
   {
     "id": "os-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview进阶",
+    "description": "PortfolioInterview进阶",
+    "slug": "portfoliointerview进阶"
   },
   {
     "id": "os-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject进阶",
+    "description": "OSSProject进阶",
+    "slug": "ossproject进阶"
   },
   {
     "id": "os-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门进阶",
+    "description": "OSS入门进阶",
+    "slug": "oss入门进阶"
   },
   {
     "id": "os-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile进阶",
+    "description": "GitHubProfile进阶",
+    "slug": "githubprofile进阶"
   },
   {
     "id": "os-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection进阶",
+    "description": "ProjectSelection进阶",
+    "slug": "projectselection进阶"
   },
   {
     "id": "os-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作进阶",
+    "description": "README写作进阶",
+    "slug": "readme写作进阶"
   },
   {
     "id": "os-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR进阶",
+    "description": "IssuePR进阶",
+    "slug": "issuepr进阶"
   },
   {
     "id": "os-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure进阶",
+    "description": "ProjectStructure进阶",
+    "slug": "projectstructure进阶"
   },
   {
     "id": "os-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License进阶",
+    "description": "License进阶",
+    "slug": "license进阶"
   },
   {
     "id": "os-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease进阶",
+    "description": "RoadmapRelease进阶",
+    "slug": "roadmaprelease进阶"
   },
   {
     "id": "os-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions进阶",
+    "description": "GHActions进阶",
+    "slug": "ghactions进阶"
   },
   {
     "id": "os-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite进阶",
+    "description": "PagesSite进阶",
+    "slug": "pagessite进阶"
   },
   {
     "id": "os-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo进阶",
+    "description": "DemoVideo进阶",
+    "slug": "demovideo进阶"
   },
   {
     "id": "os-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution进阶",
+    "description": "Contribution进阶",
+    "slug": "contribution进阶"
   },
   {
     "id": "os-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview进阶",
+    "description": "PortfolioInterview进阶",
+    "slug": "portfoliointerview进阶"
   },
   {
     "id": "os-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject进阶",
+    "description": "OSSProject进阶",
+    "slug": "ossproject进阶"
   },
   {
     "id": "os-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门进阶",
+    "description": "OSS入门进阶",
+    "slug": "oss入门进阶"
   },
   {
     "id": "os-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile进阶",
+    "description": "GitHubProfile进阶",
+    "slug": "githubprofile进阶"
   },
   {
     "id": "os-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection进阶",
+    "description": "ProjectSelection进阶",
+    "slug": "projectselection进阶"
   },
   {
     "id": "os-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作进阶",
+    "description": "README写作进阶",
+    "slug": "readme写作进阶"
   },
   {
     "id": "os-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR进阶",
+    "description": "IssuePR进阶",
+    "slug": "issuepr进阶"
   },
   {
     "id": "os-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure进阶",
+    "description": "ProjectStructure进阶",
+    "slug": "projectstructure进阶"
   },
   {
     "id": "os-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License进阶",
+    "description": "License进阶",
+    "slug": "license进阶"
   },
   {
     "id": "os-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease进阶",
+    "description": "RoadmapRelease进阶",
+    "slug": "roadmaprelease进阶"
   },
   {
     "id": "os-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions进阶",
+    "description": "GHActions进阶",
+    "slug": "ghactions进阶"
   },
   {
     "id": "os-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite进阶",
+    "description": "PagesSite进阶",
+    "slug": "pagessite进阶"
   },
   {
     "id": "os-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo进阶",
+    "description": "DemoVideo进阶",
+    "slug": "demovideo进阶"
   },
   {
     "id": "os-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution进阶",
+    "description": "Contribution进阶",
+    "slug": "contribution进阶"
   },
   {
     "id": "os-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview进阶",
+    "description": "PortfolioInterview进阶",
+    "slug": "portfoliointerview进阶"
   },
   {
     "id": "os-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject进阶",
+    "description": "OSSProject进阶",
+    "slug": "ossproject进阶"
   },
   {
     "id": "os-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门进阶",
+    "description": "OSS入门进阶",
+    "slug": "oss入门进阶"
   },
   {
     "id": "os-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile进阶",
+    "description": "GitHubProfile进阶",
+    "slug": "githubprofile进阶"
   },
   {
     "id": "os-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection进阶",
+    "description": "ProjectSelection进阶",
+    "slug": "projectselection进阶"
   },
   {
     "id": "os-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作进阶",
+    "description": "README写作进阶",
+    "slug": "readme写作进阶"
   },
   {
     "id": "os-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR进阶",
+    "description": "IssuePR进阶",
+    "slug": "issuepr进阶"
   },
   {
     "id": "os-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure进阶",
+    "description": "ProjectStructure进阶",
+    "slug": "projectstructure进阶"
   },
   {
     "id": "os-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License进阶",
+    "description": "License进阶",
+    "slug": "license进阶"
   },
   {
     "id": "os-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease进阶",
+    "description": "RoadmapRelease进阶",
+    "slug": "roadmaprelease进阶"
   },
   {
     "id": "os-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions进阶",
+    "description": "GHActions进阶",
+    "slug": "ghactions进阶"
   },
   {
     "id": "os-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite进阶",
+    "description": "PagesSite进阶",
+    "slug": "pagessite进阶"
   },
   {
     "id": "os-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo进阶",
+    "description": "DemoVideo进阶",
+    "slug": "demovideo进阶"
   },
   {
     "id": "os-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution进阶",
+    "description": "Contribution进阶",
+    "slug": "contribution进阶"
   },
   {
     "id": "os-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview进阶",
+    "description": "PortfolioInterview进阶",
+    "slug": "portfoliointerview进阶"
   },
   {
     "id": "os-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject进阶",
+    "description": "OSSProject进阶",
+    "slug": "ossproject进阶"
   },
   {
     "id": "os-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门进阶",
+    "description": "OSS入门进阶",
+    "slug": "oss入门进阶"
   },
   {
     "id": "os-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile进阶",
+    "description": "GitHubProfile进阶",
+    "slug": "githubprofile进阶"
   },
   {
     "id": "os-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "ProjectSelection"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectSelection进阶",
+    "description": "ProjectSelection进阶",
+    "slug": "projectselection进阶"
   },
   {
     "id": "os-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "README写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "README写作进阶",
+    "description": "README写作进阶",
+    "slug": "readme写作进阶"
   },
   {
     "id": "os-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "IssuePR"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "IssuePR进阶",
+    "description": "IssuePR进阶",
+    "slug": "issuepr进阶"
   },
   {
     "id": "os-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "ProjectStructure"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "ProjectStructure进阶",
+    "description": "ProjectStructure进阶",
+    "slug": "projectstructure进阶"
   },
   {
     "id": "os-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "License"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "License进阶",
+    "description": "License进阶",
+    "slug": "license进阶"
   },
   {
     "id": "os-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "RoadmapRelease"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "RoadmapRelease进阶",
+    "description": "RoadmapRelease进阶",
+    "slug": "roadmaprelease进阶"
   },
   {
     "id": "os-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "GHActions"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GHActions进阶",
+    "description": "GHActions进阶",
+    "slug": "ghactions进阶"
   },
   {
     "id": "os-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "PagesSite"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PagesSite进阶",
+    "description": "PagesSite进阶",
+    "slug": "pagessite进阶"
   },
   {
     "id": "os-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "DemoVideo"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "DemoVideo进阶",
+    "description": "DemoVideo进阶",
+    "slug": "demovideo进阶"
   },
   {
     "id": "os-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "Contribution"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "Contribution进阶",
+    "description": "Contribution进阶",
+    "slug": "contribution进阶"
   },
   {
     "id": "os-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "PortfolioInterview"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "PortfolioInterview进阶",
+    "description": "PortfolioInterview进阶",
+    "slug": "portfoliointerview进阶"
   },
   {
     "id": "os-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "OSSProject"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSSProject进阶",
+    "description": "OSSProject进阶",
+    "slug": "ossproject进阶"
   },
   {
     "id": "os-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "OSS入门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "OSS入门进阶",
+    "description": "OSS入门进阶",
+    "slug": "oss入门进阶"
   },
   {
     "id": "os-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "GitHubProfile"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "GitHubProfile进阶",
+    "description": "GitHubProfile进阶",
+    "slug": "githubprofile进阶"
   }
 ]

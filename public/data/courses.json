@@ -34,7 +34,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-001",
+      "os-lesson-002",
+      "os-lesson-003",
+      "os-lesson-004",
+      "os-lesson-005",
+      "os-lesson-006",
+      "os-lesson-007",
+      "os-lesson-008",
+      "os-lesson-009",
+      "os-lesson-010",
+      "os-lesson-011",
+      "os-lesson-012",
+      "os-lesson-013"
+    ],
+    "summary": "开源价值、作品集意义、学习路线。"
   },
   {
     "id": "os-course-02",
@@ -71,7 +87,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-014",
+      "os-lesson-015",
+      "os-lesson-016",
+      "os-lesson-017",
+      "os-lesson-018",
+      "os-lesson-019",
+      "os-lesson-020",
+      "os-lesson-021",
+      "os-lesson-022",
+      "os-lesson-023",
+      "os-lesson-024",
+      "os-lesson-025",
+      "os-lesson-026"
+    ],
+    "summary": "Profile README、徽章、统计图。"
   },
   {
     "id": "os-course-03",
@@ -108,7 +140,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-027",
+      "os-lesson-028",
+      "os-lesson-029",
+      "os-lesson-030",
+      "os-lesson-031",
+      "os-lesson-032",
+      "os-lesson-033",
+      "os-lesson-034",
+      "os-lesson-035",
+      "os-lesson-036",
+      "os-lesson-037",
+      "os-lesson-038",
+      "os-lesson-039"
+    ],
+    "summary": "选题原则、MVP、技术栈选择。"
   },
   {
     "id": "os-course-04",
@@ -145,7 +193,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-040",
+      "os-lesson-041",
+      "os-lesson-042",
+      "os-lesson-043",
+      "os-lesson-044",
+      "os-lesson-045",
+      "os-lesson-046",
+      "os-lesson-047",
+      "os-lesson-048",
+      "os-lesson-049",
+      "os-lesson-050",
+      "os-lesson-051",
+      "os-lesson-052"
+    ],
+    "summary": "README结构、徽章、截图、安装使用。"
   },
   {
     "id": "os-course-05",
@@ -182,7 +246,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-053",
+      "os-lesson-054",
+      "os-lesson-055",
+      "os-lesson-056",
+      "os-lesson-057",
+      "os-lesson-058",
+      "os-lesson-059",
+      "os-lesson-060",
+      "os-lesson-061",
+      "os-lesson-062",
+      "os-lesson-063",
+      "os-lesson-064",
+      "os-lesson-065"
+    ],
+    "summary": "Issue模板、PR流程、Code Review。"
   },
   {
     "id": "os-course-06",
@@ -219,7 +299,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-066",
+      "os-lesson-067",
+      "os-lesson-068",
+      "os-lesson-069",
+      "os-lesson-070",
+      "os-lesson-071",
+      "os-lesson-072",
+      "os-lesson-073",
+      "os-lesson-074",
+      "os-lesson-075",
+      "os-lesson-076",
+      "os-lesson-077",
+      "os-lesson-078"
+    ],
+    "summary": "目录结构、配置文件、健康文件。"
   },
   {
     "id": "os-course-07",
@@ -256,7 +352,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-079",
+      "os-lesson-080",
+      "os-lesson-081",
+      "os-lesson-082",
+      "os-lesson-083",
+      "os-lesson-084",
+      "os-lesson-085",
+      "os-lesson-086",
+      "os-lesson-087",
+      "os-lesson-088",
+      "os-lesson-089",
+      "os-lesson-090",
+      "os-lesson-091"
+    ],
+    "summary": "MIT/Apache/GPL选择、CONTRIBUTING、CODE_OF_CONDUCT。"
   },
   {
     "id": "os-course-08",
@@ -293,7 +405,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-092",
+      "os-lesson-093",
+      "os-lesson-094",
+      "os-lesson-095",
+      "os-lesson-096",
+      "os-lesson-097",
+      "os-lesson-098",
+      "os-lesson-099",
+      "os-lesson-100",
+      "os-lesson-101",
+      "os-lesson-102",
+      "os-lesson-103",
+      "os-lesson-104"
+    ],
+    "summary": "SemVer、Changelog、Release、Roadmap。"
   },
   {
     "id": "os-course-09",
@@ -330,7 +458,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-105",
+      "os-lesson-106",
+      "os-lesson-107",
+      "os-lesson-108",
+      "os-lesson-109",
+      "os-lesson-110",
+      "os-lesson-111",
+      "os-lesson-112",
+      "os-lesson-113",
+      "os-lesson-114",
+      "os-lesson-115",
+      "os-lesson-116",
+      "os-lesson-117"
+    ],
+    "summary": "CI/CD、自动化测试、自动发布。"
   },
   {
     "id": "os-course-10",
@@ -367,7 +511,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-118",
+      "os-lesson-119",
+      "os-lesson-120",
+      "os-lesson-121",
+      "os-lesson-122",
+      "os-lesson-123",
+      "os-lesson-124",
+      "os-lesson-125",
+      "os-lesson-126",
+      "os-lesson-127",
+      "os-lesson-128",
+      "os-lesson-129",
+      "os-lesson-130"
+    ],
+    "summary": "Pages部署、个人站点、项目展示页。"
   },
   {
     "id": "os-course-11",
@@ -404,7 +564,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-131",
+      "os-lesson-132",
+      "os-lesson-133",
+      "os-lesson-134",
+      "os-lesson-135",
+      "os-lesson-136",
+      "os-lesson-137",
+      "os-lesson-138",
+      "os-lesson-139",
+      "os-lesson-140",
+      "os-lesson-141",
+      "os-lesson-142",
+      "os-lesson-143"
+    ],
+    "summary": "截图制作、Demo录制、文档撰写。"
   },
   {
     "id": "os-course-12",
@@ -441,7 +617,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-144",
+      "os-lesson-145",
+      "os-lesson-146",
+      "os-lesson-147",
+      "os-lesson-148",
+      "os-lesson-149",
+      "os-lesson-150",
+      "os-lesson-151",
+      "os-lesson-152",
+      "os-lesson-153",
+      "os-lesson-154",
+      "os-lesson-155",
+      "os-lesson-156"
+    ],
+    "summary": "贡献路径、社区互动、长期维护。"
   },
   {
     "id": "os-course-13",
@@ -478,7 +670,23 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-157",
+      "os-lesson-158",
+      "os-lesson-159",
+      "os-lesson-160",
+      "os-lesson-161",
+      "os-lesson-162",
+      "os-lesson-163",
+      "os-lesson-164",
+      "os-lesson-165",
+      "os-lesson-166",
+      "os-lesson-167",
+      "os-lesson-168",
+      "os-lesson-169"
+    ],
+    "summary": "作品集精选、项目讲解、亮点提炼。"
   },
   {
     "id": "os-course-14",
@@ -515,6 +723,22 @@
       "能做作品集",
       "能讲项目"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-170",
+      "os-lesson-171",
+      "os-lesson-172",
+      "os-lesson-173",
+      "os-lesson-174",
+      "os-lesson-175",
+      "os-lesson-176",
+      "os-lesson-177",
+      "os-lesson-178",
+      "os-lesson-179",
+      "os-lesson-180",
+      "os-lesson-181",
+      "os-lesson-182"
+    ],
+    "summary": "完整项目实战、案例复盘。"
   }
 ]
